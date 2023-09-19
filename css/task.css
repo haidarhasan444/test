@@ -1,0 +1,104 @@
+body{
+    background: no-repeat;
+    background-size: cover;
+    background-image: url(../img/9.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+img.a{
+    margin: 50px 50px 50px 370px;
+    width: 360px;
+    height: 500px;
+    
+}
+img.ll{
+    margin: -70000px 50px 50px 800px;
+    width: 450px;
+}
+
+p.b{
+    text-align: center;
+    text-decoration: solid;
+    color: white;
+    width: 300px ;
+    margin-left: 600px;
+}
+img.aa{
+    width:400px ;
+    margin: 50px 50px 50px 550px;
+}
+p.bb{
+    text-align: center;
+    text-decoration: wavy;
+    color: white;
+    width: 500px;
+    margin-left: 500px;
+}
+img.aaa{
+    width:400px ;
+    margin: 50px 50px 50px 550px;
+    height: 500px;
+}
+p.bbb{
+    text-align: center;
+    text-decoration: wavy;
+    color: white;
+    width: 500px;
+    margin-left: 500px;
+}
+img.as{
+    width:400px ;
+    margin: 50px 50px 50px 550px;
+}
+p.bn{
+    text-align: center;
+    text-decoration: wavy;
+    color: white;
+    width: 500px;
+    margin-left: 500px;
+}
+img.ad{
+    width:400px ;
+    margin: 50px 50px 50px 550px;
+}
+p.bm{
+    text-align: center;
+    text-decoration: wavy;
+    color: white;
+    width: 500px;
+    margin-left: 500px;
+}
+img.asd{
+    width:400px ;
+    margin: 50px 50px 50px 550px;
+}
+p.bnm{
+    text-align: center;
+    text-decoration: wavy;
+    color: white;
+    width: 500px;
+    margin-left: 500px;
+}
+img.asw{
+    width:400px ;
+    margin: 50px 50px 50px 550px;
+}
+p.bvn{
+    text-align: center;
+    text-decoration: wavy;
+    color: white;
+    width: 500px;
+    margin-left: 500px;
+}
+img.aes{
+    width:400px ;
+    margin: 50px 50px 50px 550px;
+}
+p.bgn{
+    text-align: center;
+    text-decoration: wavy;
+    color: white;
+    width: 500px;
+    margin-left: 500px;
+}
